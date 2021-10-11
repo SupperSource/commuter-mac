@@ -10,8 +10,6 @@ API development tool used for testing and development of an API - Mac OS version
 
 ## Installation
 
-will be updated soon.
+Head on to https://perfactors.com/commuter/ to download it bot for mac as well as windows.
 
-*Will be updated this week
 
-## Done
